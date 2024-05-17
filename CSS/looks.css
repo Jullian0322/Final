@@ -1,0 +1,58 @@
+body {
+    background-color: #865D36;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.header {
+    background-color: #3e362e;
+    width: screen;
+    height: 150px;
+    color: white;
+}
+.footer {
+    background-color: #3e362e;
+    position: absolute;
+    bottom: screen;
+    width: 99%;
+    margin-bottom: screen;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+.center {
+    text-align: center;
+}
+.centerList {
+    display: inline-block;
+    text-align: left;
+}
+#LBig {
+    align-self: right;
+    height: 200px;
+    width: 200px;
+}
+#RBig {
+    align-self: Left;
+    height: 200px;
+    width: 200px;
+}
+#CBig {
+    align-self: Center;
+    height: 200px;
+    width: 300px;
+}
+a:link {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: White;
+    background-color: transparent;
+    text-decoration: none;
+  }
